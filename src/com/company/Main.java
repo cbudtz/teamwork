@@ -7,5 +7,6 @@ public class Main {
         System.out.println("Det går fint");
 
         System.out.println("Jeg pusher til Git :)");
+        System.out.println("jeg har altså lavet ændringer :u");
     }
 }
